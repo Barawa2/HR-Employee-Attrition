@@ -5,7 +5,8 @@
 HR dataset contains information on various aspects within the organisation.
 The HR data utilized centered on employee's demographic,job roles and other job-related information within the organization which was analyzed using excel's pivot tables. 
 
-### Data sources
+### Data sources![HR employee attrition dashoard](https://github.com/user-attachments/assets/7d3760e2-8fbc-42ad-a15a-d0a587748998)
+
 The dataset was sourced from Kaggle and a copy of it can be found [here](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset?select=WA_Fn-UseC_-HR-Employee-Attrition.csv)
 
 ### Tools 
